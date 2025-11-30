@@ -1,6 +1,6 @@
 // Variáveis para armazenar nome e XP do herói
 let nome = "Wellington";
-let xp = 7500; // exemplo de valor
+let xp = 10002; // exemplo de valor
 
 let nivel;
 
